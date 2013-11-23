@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "subdomain": "automated-beavers",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
+    "ar-drone": "~0.3.0"
   },
   "engines": {
     "node": "0.10.x"
+  },
+  "devDependencies": {
   }
 }
